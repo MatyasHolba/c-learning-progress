@@ -1,0 +1,20 @@
+{
+  "courseId": "upr",
+  "course": "upr-skripta (VŠB-TUO)",
+  "courseUrl": "https://mrlvsb.github.io/upr-skripta/",
+  "lastSync": "2026-09-18T12:08:32.053Z",
+  "mode": "data-only",
+  "totalCheckpoints": 600,
+  "checkedCount": 44,
+  "progressPercentage": 7.3,
+  "totalHours": 0.7,
+  "readingHours": 0.7,
+  "codingHours": 0,
+  "totalSeconds": 2538,
+  "readingSeconds": 2534,
+  "codingSeconds": 4,
+  "formattedTotalTime": "42 min 18 s",
+  "formattedReadingTime": "42 min 14 s",
+  "formattedCodingTime": "4 s",
+  "notesCount": 0
+}
